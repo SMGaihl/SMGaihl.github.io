@@ -1,2 +1,2 @@
-# SGMaihl.github.io
+# SMGaihl.github.io
  Kitab-e
