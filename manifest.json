@@ -1,6 +1,6 @@
 {
-    "name": "smgapp_v2",
-    "short_name": "smgapp_v2",
+    "name": "kitabe_app",
+    "short_name": "kitabe_app",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
