@@ -70445,7 +70445,7 @@ Wm(a){this.av(new A.a5A(this,a))},
 a2x(a){var s=this.c
 s.toString
 A.amX(new A.a5E(this,a),s,t.z)},
-J(a){var s=null,r=A.aez(s,s,s,B.O_),q=J.bm(this.e),p=!0
+J(a){var s=null,r=A.aez(s,s,s,B.NZ),q=J.bm(this.e),p=!0
 p=p?B.j0:s
 return A.afQ(r,s,A.iW(A.b([new A.cA(B.kj,new A.xs(B.Bk,B.JJ,B.J7,B.J8,new A.a5G(this),!0,s),s),A.EF(new A.uY(new A.I3(new A.a5H(this),q,!0,!0,!0,s),s,B.aq,!1,s,s,p,!0,s,q,B.at,B.i6,s,B.aa,s),1)],t.E),B.b8,B.aV,B.cr))}}
 A.a5B.prototype={
@@ -70490,7 +70490,7 @@ J(a){var s,r,q,p,o=null
 this.a.toString
 s=A.aez(B.i,0,o,A.cm("K \u0130 T A B - E",o,o,o,B.K3,o,o))
 r=t.E
-r=A.b([A.CL(A.iW(A.b([B.J5,new A.p1(A.ak4(o,o,new A.u4("assets/logo.png",2,o,o)),o,o),B.J3,A.aiA(B.J1,new A.a9q(a),A.af_(o,o,B.fM,o,o,o,o,o,o,o,o,o,o,o,new A.bV(A.Cu(32),B.q),o,o,o,o)),B.vV,A.aiA(B.J2,new A.a9r(a),A.af_(o,o,B.fM,o,o,o,o,o,o,o,o,o,o,o,new A.bV(A.Cu(32),B.q),o,o,o,o)),B.J4,B.NW,B.O2,B.d2,B.NX],r),B.b8,B.aV,B.cr),o,o)],r)
+r=A.b([A.CL(A.iW(A.b([B.J3,new A.p1(A.ak4(o,o,new A.u4("assets/logo.png",3,o,o)),o,o),B.J5,A.aiA(B.J1,new A.a9q(a),A.af_(o,o,B.fM,o,o,o,o,o,o,o,o,o,o,o,new A.bV(A.Cu(32),B.q),o,o,o,o)),B.vV,A.aiA(B.J2,new A.a9r(a),A.af_(o,o,B.fM,o,o,o,o,o,o,o,o,o,o,o,new A.bV(A.Cu(32),B.q),o,o,o,o)),B.J4,B.NW,B.O2,B.d2,B.O_],r),B.b8,B.aV,B.cr),o,o)],r)
 q=A.aH([null,0],t.LO,t.S)
 p=!0
 p=p?B.j0:o
@@ -75119,13 +75119,13 @@ B.J_=new A.E(80,47.5)
 B.J0=new A.E(77.37,37.9)
 B.ao=new A.fB(0,0,null,null)
 B.wd=new A.l(!0,null,null,null,null,null,22,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.NZ=new A.eh("K\u0130TAP ARA",null,B.wd,null,null,null,null,null,null)
-B.yl=new A.m0(B.F,null,null,B.NZ,null)
-B.J1=new A.fB(300,80,B.yl,null)
-B.NY=new A.eh("T\xdcM K\u0130TAPLAR",null,B.wd,null,null,null,null,null,null)
-B.yn=new A.m0(B.F,null,null,B.NY,null)
-B.J2=new A.fB(300,80,B.yn,null)
-B.J3=new A.fB(null,100,null,null)
+B.NY=new A.eh("K\u0130TAP ARA",null,B.wd,null,null,null,null,null,null)
+B.yl=new A.m0(B.F,null,null,B.NY,null)
+B.J1=new A.fB(300,60,B.yl,null)
+B.NX=new A.eh("T\xdcM K\u0130TAPLAR",null,B.wd,null,null,null,null,null,null)
+B.yn=new A.m0(B.F,null,null,B.NX,null)
+B.J2=new A.fB(300,60,B.yn,null)
+B.J3=new A.fB(null,30,null,null)
 B.J4=new A.fB(null,40,null,null)
 B.J5=new A.fB(null,50,null,null)
 B.vV=new A.fB(null,5,null,null)
@@ -75478,8 +75478,8 @@ B.NU=new A.d4(B.Mc,B.Ny,B.Nf,B.KK,B.N7,B.M5,B.NC,B.Lf,B.LM,B.N0,B.KB,B.Ng,B.N4,B
 B.wg=new A.IP(1,"longestLine")
 B.NV=new A.eh("\xd6zet",null,null,null,null,null,null,null,null)
 B.NW=new A.eh("T\xfcm haklar\u0131 \u015eMG A\u0130HL'ne aittir.",null,null,null,null,null,null,null,null)
-B.NX=new A.eh("Geli\u015ftiriciler \nVeysel Kaya \nMuhammet Burak VAROL \nAli KARTAL",null,null,B.bh,null,null,null,null,null)
-B.O_=new A.eh("Kitap Listesi",null,null,null,null,null,null,null,null)
+B.NZ=new A.eh("Kitap Listesi",null,null,null,null,null,null,null,null)
+B.O_=new A.eh("Geli\u015ftiriciler \nVeysel Kaya \nMuhammet Burak VAROL - Ali KARTAL",null,null,B.bh,null,null,null,null,null)
 B.wh=new A.eh("Kapat",null,null,null,null,null,null,null,null)
 B.M9=new A.l(!0,B.l,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.O0=new A.eh("\u015eMG Okul K\xfct\xfcphanesi",null,B.M9,null,null,null,null,null,null)
